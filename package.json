@@ -1,0 +1,28 @@
+{
+  "name": "creacion-de-salas-con-socket",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start_dev": "nodemon app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JCDURANGO/Creacion-de-salas-con-socket.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JCDURANGO/Creacion-de-salas-con-socket/issues"
+  },
+  "homepage": "https://github.com/JCDURANGO/Creacion-de-salas-con-socket#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6",
+    "shortid": "^2.2.16",
+    "socket.io": "^3.0.3",
+    "vue": "^2.6.12"
+  }
+}
